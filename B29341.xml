@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scotch clergies protestation &amp; appeal given in at Aberdein. In 1694. Under form of instrument to the committee of the late general-assembly, by the ministers delegate for that end, from the diocesses of Aberdein, for themselves and in the name of all their adherents. Licensed according to order.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29341</idno><idno type="EEBO-CITATION">99831265</idno>
+  <idno type="VID">207939</idno>
+  <idno type="EEBO-PROQUEST">2240891488</idno>
+  
+            <idno type="STC">Wing S952</idno>
+            <idno type="PROQUEST">99831265</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831265e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2112:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scotch clergies protestation &amp; appeal given in at Aberdein. In 1694. Under form of instrument to the committee of the late general-assembly, by the ministers delegate for that end, from the diocesses of Aberdein, for themselves and in the name of all their adherents. Licensed according to order.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Smith in Thames-street, near Baynard's-Castle,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>M DC.XC.IV. [1694]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Caption title.</note>
+                  <note>Copy stained.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:207939:1"/>
+            <head>The <hi>SCOTCH</hi> CLERGIES <hi>Protestation &amp; Appeal,</hi> Given in at <hi>ABERDEIN.</hi> In 1694.</head>
+            <head type="sub">Ʋnder Fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m of Instrument to the <hi>COMMITTEE</hi> of the late Gen<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ral-Assembly, by the Ministers Delegate for that End, from the Diocesses of <hi>Aberdein,</hi> for themselves and in Name of all their Adherents.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>WE the Ministers of the Diocess of <hi>Aberdein, Mur<g ref="char:EOLhyphen"/>ray, Ross, Kanthnes, Orkney,</hi> and the Shire of <hi>Angus</hi> and <hi>Mernes</hi> do hereby declare, that we cannot own the Assemblies of our Pres<g ref="char:EOLhyphen"/>byterian Brethren, since the last Establishment to have been the full and sound Representatives of this National Church; And consequently that no Person or Persons whatsoever, by virtue of any Delegation from them, can justly claim a pow<g ref="char:EOLhyphen"/>er to be Judges of our Lives and Doctrines, according to what we have exprest in the Queries given in to the Com<g ref="char:EOLhyphen"/>missioner, the Tenor whereof is as follows.</p>
+            <list>
+               <item>
+                  <p n="1">I. WHereas according to the Principles of Presbyterian Government, there ought to be no higher degree of Pastors in the Church than Presbyters, and all Presbyters are equal in Power and Authority: We desire to know by
+<pb n="2" facs="tcp:207939:2"/>what Divine or Ecclesiastical Right these 50 or 60 Survey<g ref="char:EOLhyphen"/>ing Ministers, not being in actual Charge within this King<g ref="char:EOLhyphen"/>dom, did take upon them the sole Exercise of the Ecclesia<g ref="char:EOLhyphen"/>stical Power of this National Church; And have exerted a more absolute Authority and Jurisdiction over their Bre<g ref="char:EOLhyphen"/>thren, 900 or 1000 Ministers, who were in Office when Epis<g ref="char:EOLhyphen"/>copacy was laid aside, than ever the Bishops pretended to, who never claimed a Power to make Acts concerning the Church, without consent of its Ministers.</p>
+               </item>
+               <item>
+                  <p n="2">II. SInce according to their own Principles, the power of Preaching the Gospel, and administring the Sacraments, and the power of Discipline and Government are inseparable in the Office of a Pastor: Queritur, If that Constitution of Church Government be lawful, which extends to the great<g ref="char:EOLhyphen"/>est part of the Pastors of the Church from having any share in the Government thereof.</p>
+               </item>
+               <item>
+                  <p n="3">III. SEeing no Assembly of Church-Officers can justly claim any Authority or Jurisdiction over a Church, wherein that Church is not duly represented, and a Church cannot be represented in one Assembly in which their Delegates are not allow'd to sit; and that by the Constitution of this Church, General Assemblies do consist of Commissioners from all Presbyteries within the Kingdom. Queritur, How the late Presbyterian Assemblies can be owned for a lawful General-Assembly of this Church, seeing they consisted in<g ref="char:EOLhyphen"/>tirely of the Presbyterian Party; And the Presbyters of the Diocess and Shires anent, had no Commissioners present at these Assemblies, nor had they a call to send any.</p>
+               </item>
+               <pb n="3" facs="tcp:207939:2"/>
+               <item>
+                  <p n="4">IV. SInce by the Principles already mentioned, all Persons have one equal right to share in the Government of that Church, whereby they are Members and Office-bearers: And since the whole Body of the Pastors of this Church, who were in Office at the time of the Establishment of Episcopacy, cannot be charged with Ignorance, gross Error, Immorality of Life, or supine negligence in their Office: We cannot understand how the Constitution of the present Church-Government and late Assemblies can be justified, by the Presbyterian Mi<g ref="char:EOLhyphen"/>nisters but upon Supposition, that the whole Body of Pastors are either no Ministers of the Gospel, or guilty of such Cor<g ref="char:EOLhyphen"/>ruptions upon the account of their Principles and Practises, in relation to Church-Government, as that they are not wor<g ref="char:EOLhyphen"/>thy to be trusted with the Exercise of the power which be<g ref="char:EOLhyphen"/>longs to the Pastoral Office, which we cannot own without either renouncing our Ministery, and declaring all the Acts of our Ministerial Function, void and null, or condemning these Principles and Practises which we judge to be just and lawful.</p>
+               </item>
+               <item>
+                  <p n="5">V. QUeritur, Whether the Annual Office of Ruling not Preaching Elders, chosen out amongst the People and join'd to the Ministers in <hi>Kirk</hi> Sessions; Presbyteries, Provin<g ref="char:EOLhyphen"/>cial and General Assemblies, and their Committees to assist and concur with them in the Exercise of Discipline and Go<g ref="char:EOLhyphen"/>vernment, can be warrantably affirmed to be of Divine In<g ref="char:EOLhyphen"/>stitution. And if any Foot-step of such one Office doth appear in the Practise of the ancient Church, or any plain convince<g ref="char:EOLhyphen"/>ing Proof of its Institution, can be produced out of the Scrip<g ref="char:EOLhyphen"/>tures; And if this Office be not of Divine Institution, whe<g ref="char:EOLhyphen"/>ther a Judicatory consisting in point of such Officers, pretend<g ref="char:EOLhyphen"/>ing to Divine Institution. And to act by Warrand and Com<g ref="char:EOLhyphen"/>mission from Jesus Christ be a lawful Judicatory.</p>
+               </item>
+            </list>
+            <pb n="4" facs="tcp:207939:3"/>
+            <p>To Which Queries we having received no satisfactory An<g ref="char:EOLhyphen"/>swer, and in regard they have manifestly stated themselves as Parties against us, and those of our Charactor and Persua<g ref="char:EOLhyphen"/>sion; Therefore for maintaining the Liberties of this Nation<g ref="char:EOLhyphen"/>al Church, and for many other Reasons moving us thereto, which we are resolved in due time to publish to the World, we find our selves unanimously obliged to testifie against all Proceedings, Acts and Sentences, in the quality of an Eccle<g ref="char:EOLhyphen"/>siastick Judicator; and to Appeal to Their Majesties K. <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and Q. <hi>Mary,</hi> as Supreme Judge under God within these Dominions, and to the next lawfully constitute and orderly called General-Assembly of this Church: And we do hereby protest against any Sentence past or to be past, against any of our number, that are cited or may be cited before this Com<g ref="char:EOLhyphen"/>mittee, and do Appeal to Their Majesties as said is. And this we do not as if we would protect any that are truly Scandalous, (if any such be amongst us) nor as we would not give all due deference to this present Committee in sub<g ref="char:EOLhyphen"/>mitting to them, if they cloathed themselves only with a Delegation from a Civil Power; but that we cannot until we be resolved in the anent Scruples, acknowledge any Ec<g ref="char:EOLhyphen"/>clesiastical Power or Jurisdiction in this Committee, or their Constituents to be Judges of any of our Number. And fi<g ref="char:EOLhyphen"/>nally we protest that this our Protestation and Appeal, toge<g ref="char:EOLhyphen"/>ther with the Queries anent as they were given in before the entering of this Protestation be insert verbatim in the Re<g ref="char:EOLhyphen"/>cords of the Committee; <hi>Ad futuram rei memoriam.</hi>
+            </p>
+            <closer>Indorsed.</closer>
+            <trailer>
+               <hi>The Regular Clergies Protestation and Appeal from the Com<g ref="char:EOLhyphen"/>mittee of the General-Assembly,</hi> 1694.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Smith</hi> in <hi>Thames-street,</hi> near <hi>Baynard's-Castle.</hi> M.DC.XC.IV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
